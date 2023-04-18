@@ -24,10 +24,9 @@ To explore a cities' ranking on the BPC's 12 components, select the city of inte
   
  <H2> BPC Large Cities' Rankings: Interactive Table </H2> 
  
- <https://public.tableau.com/views/BPC-Large-v2/Dashboard3?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
+  <iframe src="<https://public.tableau.com/views/BPC-Large-v2/Dashboard3?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
   <Br>
-   
-   
+    
  <Br>
 
 <H2>BPC Report </H2>
