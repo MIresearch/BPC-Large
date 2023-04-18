@@ -20,8 +20,14 @@ BPC's large cities include the 200 most populous US metropolitan areas. Large ci
  <iframe src="https://public.tableau.com/views/BPC-Large-v1/BPC-GainDrop?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
   <Br>
  
-To explore performance for individual large cities, select the city of interest from the drop-down box in the table below.
+To explore a cities' ranking on the BPC's 12 components, select the city of interest from the drop-down box in the table below.
   
+ <H2> BPC Large Cities' Rankings: Interactive Table </H2> 
+ 
+ <https://public.tableau.com/views/BPC-Large-v2/Dashboard3?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
+  <Br>
+   
+   
  <Br>
 
 <H2>BPC Report </H2>
