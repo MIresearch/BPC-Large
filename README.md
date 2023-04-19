@@ -13,7 +13,7 @@
 <H2><b>Best Performing Cities -- Large Cities</b></H2>  <Hr>
 
 
-BPC's large cities include the 200 most populous US metropolitan areas. Large cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. The interactive figure below shows rankings of the 200 BPC large cities, by tier, and compares the 2023 and 2022 rankings. To compare cities across the BPC's 12 components or explore rankings for individual cities, click on the black buttons on the bottom of the figure.
+BPC's large cities include the 200 most populous US metropolitan areas. Large cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. The interactive figure below shows rankings of the 200 BPC large cities, by tier, as well as gains and drops in rankings compared to previous year. To compare cities across the BPC's 12 components or explore rankings for individual cities, click on the black buttons on the bottom of the figure.
 
 <H2> BPC Large Cities' Rankings: Interactive Figure </H2> 
  
