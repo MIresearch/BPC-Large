@@ -12,8 +12,7 @@
 <H1><b>MI Research Department on Github </b></H1>  <Hr>
 <H2><b>Best Performing Cities -- Large Cities</b></H2>  <Hr>
 
- <a href="https://miresearch.github.io/Best-Performing-Cities/" target="_blank"><button class="button button2"><b>Main BPC page</b></button></a>   
- <a href="https://miresearch.github.io/BPC-Small/" target="_blank"><button class="button button2"><b>Large Cities</b></button></a> 
+ <a href="https://miresearch.github.io/Best-Performing-Cities/" target="_blank"><button class="button button2"><b>Main BPC page</b></button></a>  <a href="https://miresearch.github.io/BPC-Small/" target="_blank"><button class="button button2"><b>Large Cities</b></button></a> 
 
 BPC's large cities include the 200 most populous US metropolitan areas. Large cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. The interactive figure below shows large cities' rankings on the 12 components of the index. 
 
